@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		20AE5B182999829F00A981B2 /* LittleLemmonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AE5B172999829F00A981B2 /* LittleLemmonApp.swift */; };
+		20AE5B182999829F00A981B2 /* RestaurantApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AE5B172999829F00A981B2 /* RestaurantApp.swift */; };
 		20AE5B1A2999829F00A981B2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AE5B192999829F00A981B2 /* ContentView.swift */; };
 		20AE5B1C299982A000A981B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20AE5B1B299982A000A981B2 /* Assets.xcassets */; };
 		20AE5B1F299982A000A981B2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20AE5B1E299982A000A981B2 /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		20AE5B142999829F00A981B2 /* LittleLemmon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LittleLemmon.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		20AE5B172999829F00A981B2 /* LittleLemmonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LittleLemmonApp.swift; sourceTree = "<group>"; };
+		20AE5B172999829F00A981B2 /* RestaurantApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantApp.swift; sourceTree = "<group>"; };
 		20AE5B192999829F00A981B2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		20AE5B1B299982A000A981B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20AE5B1E299982A000A981B2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		20AE5B162999829F00A981B2 /* LittleLemmon */ = {
 			isa = PBXGroup;
 			children = (
-				20AE5B172999829F00A981B2 /* LittleLemmonApp.swift */,
+				20AE5B172999829F00A981B2 /* RestaurantApp.swift */,
 				20AE5B192999829F00A981B2 /* ContentView.swift */,
 				20AE5B1B299982A000A981B2 /* Assets.xcassets */,
 				20AE5B1D299982A000A981B2 /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				20AE5B1A2999829F00A981B2 /* ContentView.swift in Sources */,
-				20AE5B182999829F00A981B2 /* LittleLemmonApp.swift in Sources */,
+				20AE5B182999829F00A981B2 /* RestaurantApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

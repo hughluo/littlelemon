@@ -1,5 +1,5 @@
 //
-//  LittleLemmonApp.swift
+//  RestaurantApp.swift
 //  LittleLemmon
 //
 //  Created by Yinchi Luo on 12.02.23.
